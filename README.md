@@ -1,4 +1,4 @@
-# Telegram Bot for Fetching Cryptocurrency Pair Data
+# **Telegram Bot for Fetching Cryptocurrency Pair Data**
 This is a Telegram bot developed in Python that allows you to retrieve information about cryptocurrency pairs using the DexScreener API. The bot enables you to search for specific pairs and displays details such as price, volume, price changes, and liquidity.
 
 ## Requirements
@@ -14,7 +14,8 @@ Use the /price command followed by the symbol or contract of the cryptocurrency 
 The bot will respond with information about the found cryptocurrency pair.
 ## Additional Commands
 /request_count: Displays the total number of requests made to the bot.
-Contributions
+
+## Contributions
 Contributions to this project are welcome. If you want to make improvements or corrections, you can fork the repository, make the changes, and submit a pull request.
 
 ## Acknowledgments
