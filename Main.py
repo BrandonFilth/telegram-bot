@@ -65,6 +65,8 @@ def main():
             
     # Command  /request_count
     @bot.message_handler(commands=['request_count'])
+
+    # Command requests function, 
     def handle_request_count(message):
         bot_send_text(message.chat.id, f"Total requests: {request_count}")
 
